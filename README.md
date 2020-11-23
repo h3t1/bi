@@ -6,7 +6,7 @@ Les fichiers présents dans ce projet sont:
  
  <p align="center">
   <a href="TALAGHZI_Hamza__Omrane_Pentaho.pdf"><img src="img/cover.png" alt="etl_omrane"  width="460px"></a>
-  <p align="center">Fig1 – page de couverture du <a href="TALAGHZI_Hamza__Omrane_Pentaho.pdf">rapport</a></p>
+  <p align="center">Fig1 – Page de couverture du <a href="TALAGHZI_Hamza__Omrane_Pentaho.pdf">rapport</a></p>
 </p> 
 
  - Un fichier de transformation <a href="etl_omrane.ktr">etl_omrane.ktr</a> pour l'extraction des données et l'alimentation des tables de dimensions et la table de faits.
