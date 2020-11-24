@@ -23,7 +23,7 @@ Les fichiers présents dans ce projet sont:
   <p align="center">Fig3 – Exemple d'exécution de la transformation <a href="set_lat_long.ktr">set_lat_long.ktr</a> sur PDI</p>
 </p>
 
-- Un fichier excel <a href="input_Qualified.xls">input_Qualified.xls</a> contenant les données à traiter.
+- Un fichier Excel <a href="input_Qualified.xls">input_Qualified.xls</a> contenant les données à traiter.
  
  <p align="center">
   <a href="input_Qualified.xls"><img src="img/input_Qualified.png" alt="etl_omrane"  width="768px"></a>
